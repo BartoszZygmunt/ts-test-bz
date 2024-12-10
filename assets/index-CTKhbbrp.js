@@ -15,3 +15,4 @@
     </p>
   </div>
 `;a(document.querySelector("#counter"));
+//# sourceMappingURL=index-CTKhbbrp.js.map
